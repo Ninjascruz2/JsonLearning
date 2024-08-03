@@ -1,5 +1,4 @@
-{
-  "fruits": [
+[
     "Apple",
     "Banana",
     "Orange",
@@ -20,5 +19,4 @@
     "Papaya",
     "Dragon Fruit",
     "Lychee"
-  ]
-}
+]
